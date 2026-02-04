@@ -1,0 +1,13 @@
+{
+  "num_features": 1024,
+  "batch_size": 2048,
+  "epochs": 10,
+  "lr": 0.001,
+  "l1_lambda": 0.001,
+  "weight_decay": 0.0,
+  "seed": 0,
+  "device": "cuda",
+  "dtype": "torch.float32",
+  "shards_dir": "/lambda/nfs/neel/Research/runs/dinov2/imagenet1k_sae/layer6_block_output_k4/shards",
+  "out_dir": "/lambda/nfs/neel/Research/runs/dinov2/imagenet1k_sae/layer6_block_output_k4/sae_1024"
+}
