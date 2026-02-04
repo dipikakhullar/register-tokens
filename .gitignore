@@ -1,0 +1,22 @@
+# exclude data folders
+datasets/
+subsets/
+
+# common large artifacts
+runs/
+*.parquet
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.log
+
+# python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
