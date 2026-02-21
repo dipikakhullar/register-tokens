@@ -1,6 +1,0 @@
-{
-  "n": 5000,
-  "vqa_soft_acc_logged_mean": 0.29319999999999974,
-  "vqa_soft_acc_recomputed_mean": 0.29319999999999974,
-  "num_soft_acc_mismatches": 0
-}

@@ -3,14 +3,12 @@ datasets/
 subsets/
 
 # common large artifacts
-runs/
 *.parquet
 *.pt
 *.pth
 *.ckpt
 *.npz
 *.npy
-*.png
 *.jpg
 *.jpeg
 *.webp
@@ -20,3 +18,25 @@ runs/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# big artifacts
+*.parquet
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.jpg
+*.jpeg
+*.webp
+*.log
+.venv/
+runs/
+runs/
+runs/
+imagenet/updated/
+runs/
+imagenet/updated/
+imagenet/constant/
+runs/
+imagenet/updated/
